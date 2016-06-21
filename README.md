@@ -9,11 +9,10 @@
 
 ****
 * 原作名字：elasticsearch - the definitive guide
-原作作者：clinton gormley，zachary tong
-簡體译者：Gavin Foo <fuxiaopang@gmail.com>
-繁體譯者：Lawrence Cheng <lawrence.cmw@gmail.com>
-繁體譯者：Jaric Kuo <jarickuo@gmail.com>
-
+* 原作作者：clinton gormley，zachary tong
+* 簡體译者：Gavin Foo <fuxiaopang@gmail.com>
+* 繁體譯者：Lawrence Cheng <lawrence.cmw@gmail.com>
+* 繁體譯者：Jaric Kuo <jarickuo@gmail.com>
 
 ## 前言
 
