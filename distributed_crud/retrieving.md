@@ -1,4 +1,4 @@
-### 获取一个文档
+### 獲取一個文檔
 
 A document can be retrieved from a primary shard or from any of its replicas.
 

@@ -1,4 +1,4 @@
-### 创建、索引、删除文档
+### 創建、索引、刪除文檔
 
 Create, index and delete requests are _write_ operations, which must be
 successfully completed on the primary shard before they can be copied to any

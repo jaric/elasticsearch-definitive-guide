@@ -1,4 +1,4 @@
-# 精确值与全文
+# 精確值與全文
 
 Data in Elasticsearch can be broadly divided into two types:
 _exact values_ and _full text_.

@@ -1,6 +1,6 @@
-## 分布式文档存储
+## 分佈式文檔存儲
 
-#### 本章将会在主要章节翻译结束后再继续翻译
+#### 本章將會在主要章節翻譯結束後再繼續翻譯
 
 In the last chapter, we looked at all the ways to put data into your index and
 then retrieve it.  But we glossed over many technical details surrounding how
@@ -13,7 +13,7 @@ to help you understand how your data is stored in a distributed system.
 
 
 ****
-> ### 内容警告
+> ### 內容警告
 
 The information presented below is for your interest. You are not required to
 understand and remember all the detail in order to use Elasticsearch. The

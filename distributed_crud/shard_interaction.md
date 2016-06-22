@@ -1,4 +1,4 @@
-### 主从库之间是如何通信的
+### 主從庫之間是如何通信的
 
 For explanation purposes, let's imagine that we have a cluster
 consisting of 3 nodes. It contains one index called `blogs` which has

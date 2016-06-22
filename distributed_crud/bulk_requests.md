@@ -1,4 +1,4 @@
-### 多文档模式
+### 多文檔模式
 
 The patterns for the `mget` and `bulk` APIs are similar to those for
 individual documents. The difference is that the requesting node knows in

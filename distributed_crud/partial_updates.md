@@ -1,4 +1,4 @@
-### 更新文档中的一部分
+### 更新文檔中的一部分
 
 The `update` API  combines the read and write patterns explained above.
 
@@ -29,7 +29,7 @@ The `update` API also accepts the `routing`, `replication`, `consistency` and
 
 
 ****
-> ### 基于文档的复制
+> ### 基於文檔的複製
 
 
 When a primary shard forwards changes to its replica shards, it doesn't
